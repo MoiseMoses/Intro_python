@@ -83,4 +83,5 @@ for  File in all_doc_files:
     os.remove(File)
     print(f"{File} deleted successfully")
 
-#THEST with Edwidge
+# Test with Edwidge
+# juste pour pull
