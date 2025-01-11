@@ -1,0 +1,7 @@
+Write a Python script that will determine the result of a rock, paper, scissors game, given Player 1 and Player 2’s choices.
+Player 1 plays first and player 2 after so the answer are (answer1, answer2).
+If the answer of the 2 player are [("Rock", "Scissors"), ("Paper", "Rock"), ("Scissors", "Paper")], then player 1 wins. 
+If  the player make the same choice, it is a draw.
+Otherwise, player 2 wins.
+
+
